@@ -24,13 +24,13 @@ ESP32 é uma série de microcontroladores de baixo custo e baixo consumo de ener
 
 O ESP8266 é um microcontrolador do fabricante chinês Espressif que inclui capacidade de comunicação por Wi-Fi. O chip chegou a cultura maker em agosto de 2014, com a ESP-01. Esta pequena placa permite que microcontroladores se conectem a uma rede sem fio fazendo conexões TCP/IP usando um conjunto de comandos Hayes
 
-![](.gitbook/assets/image%20%286%29.png)
+![](.gitbook/assets/image%20%287%29.png)
 
 ### RASPBERRY PI 
 
 É um computador de baixo custo e que tem o tamanho de um cartão de crédito desenvolvido no Reino Unido pela Fundação **Raspberry Pi**. Para usá-lo, basta plugar um teclado e um mouse padrão a ele e conectar tudo isso a um monitor ou a uma televisão.
 
-![](.gitbook/assets/image%20%288%29.png)
+![](.gitbook/assets/image%20%289%29.png)
 
 
 

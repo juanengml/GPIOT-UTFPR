@@ -6,7 +6,7 @@
 
 Consiste em uma plataforma de gerenciamento de dispositivos onde vamos utilizar para ler os dados dos nossos projetos,dispositivos e também poder criar nossas próprias dashboards.
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 
 

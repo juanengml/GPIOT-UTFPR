@@ -6,7 +6,7 @@ description: MQTT - Protocolos para IoT
 
 ## O que é ?
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 _Message Queuing Telemetry Transport_ \(MQTT\) é um protocolo de mensagens destinado a sensores e pequenos dispositivos móveis. Seu principal uso é fazer as máquinas trocarem informações, modalidade de comunicação conhecida como _Machine-to-Machine_ \(M2M, ou em português, de máquina para máquina\).
 

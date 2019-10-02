@@ -14,7 +14,7 @@ Pontos levados em consideração serão
 
 **Tela de Login**
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
 ### MOSQUITTO - GUI ?
 

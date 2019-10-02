@@ -2,7 +2,7 @@
 
 ### Está pagina é para documentação das bibliotecas e tutoriais utilizados dentro dos projetos do grupo de pesquisa é internet das coisas do campus toledo da UTFPR.
 
-![](.gitbook/assets/image%20%2811%29.png)
+![](.gitbook/assets/image%20%2812%29.png)
 
 ### Os projetos documentados nessa pagina são
 

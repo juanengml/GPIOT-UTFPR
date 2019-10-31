@@ -57,9 +57,7 @@ PubSubClient client(server, 1883, on_message, ethClient);
 
 void setup() {
   Serial.begin(9600);
-
   pinMode(GPIO2, OUTPUT);
-
   delay(10);
 
   if (Ethernet.begin(mac) == 0) {
@@ -70,7 +68,6 @@ void setup() {
   printIPAddress();
 
   client.setServer( server, 1883 );
-
 
   client.setCallback(on_message);
 }
